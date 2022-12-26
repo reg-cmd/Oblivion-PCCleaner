@@ -1,4 +1,4 @@
-"Oblivion by Reg" 
+"Oblivion" 
 
 Oblivion is a Automatic PcCleaner. Oblivion will execute each cleanup command to keep your computer always clean and performing.
 
